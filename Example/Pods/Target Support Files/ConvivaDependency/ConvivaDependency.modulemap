@@ -1,0 +1,6 @@
+framework module ConvivaDependency {
+  umbrella header "ConvivaDependency-umbrella.h"
+
+  export *
+  module * { export * }
+}

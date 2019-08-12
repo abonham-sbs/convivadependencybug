@@ -1,0 +1,16 @@
+PODS:
+  - ConvivaDependency (0.1.0)
+
+DEPENDENCIES:
+  - ConvivaDependency (from `../`)
+
+EXTERNAL SOURCES:
+  ConvivaDependency:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ConvivaDependency: cd3bd16e41b9463221fb60ac73e6646b35c2a5b2
+
+PODFILE CHECKSUM: 5d003128bfb0bb12b0aa73f0b215b5e0ad496e42
+
+COCOAPODS: 1.7.5
