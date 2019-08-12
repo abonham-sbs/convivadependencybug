@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ConvivaDependency_Example' do
+  pod 'ConvivaDependency', :path => '../'
+
+  target 'ConvivaDependency_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
